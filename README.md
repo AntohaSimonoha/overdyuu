@@ -1,9 +1,10 @@
-# Overdyuu
+# Overdyuu - Repo for my new long overdue PC
 -----
-Repo for PC configs
 
 ## ToDo list
 - [] Install & configure rEFInd
+- [] Install GPU
+- [] Finish cable managment
 - [x] Create a GIT repo for configs
 - [x] Upload configs and documentation to repo
 - [] Search for 'Linux configuration best practices'
@@ -20,8 +21,6 @@ Repo for PC configs
    2.**`SSD #2`**: WD SN770 2TB
 7. **`PSU`**: Corsair HX1200
 8. **`CPU COOLER`**: Noctua NH-U12A
-
-
 
 ## Partitioning:
 `/dev/nvme0n1p1 EFI 3GiB`
