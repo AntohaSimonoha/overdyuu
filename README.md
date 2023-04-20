@@ -2,9 +2,9 @@
 -----
 
 ## ToDo list
-- [] Install & configure rEFInd
-- [] Install GPU
-- [] Finish cable managment
+- [x] Install & configure rEFInd
+- [x] Install GPU
+- [x] Finish cable managment
 - [x] Create a GIT repo for configs
 - [x] Upload configs and documentation to repo
 - [] Search for 'Linux configuration best practices'
@@ -21,42 +21,3 @@
    2.**`SSD #2`**: WD SN770 2TB
 7. **`PSU`**: Corsair HX1200
 8. **`CPU COOLER`**: Noctua NH-U12A
-
-## Partitioning:
-`/dev/nvme0n1p1 EFI 3GiB`
-`/dev/nvme0n1p2 XFS 928GiB`
-
-## Ricing:
-https://github.com/ibrahimbutt/direwolf-arch-rice
-
-## List of packages:
-### Core:
-* base
-* linux
-* linux-firmware
-* sof-firmware
-* archlinux-keyring
-* intel-ucode
-* refind
-* sudo
-
-### Tools:
-* vim
-* gptfdisk
-* util-linux-libs
-* git
-* openssh
-* htop
-* btop
-
-### Networking:
-* tcpdump
-* networkmanager
-* iw
-* iwd
-* ethtool
-
-### Documentation:
-* man-db
-* man-pages
-* texinfo
