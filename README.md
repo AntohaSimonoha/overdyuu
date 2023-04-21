@@ -13,7 +13,7 @@
 ## Specs:
 1. **`CPU`**: Intel Core i7-13700K
 2. **`GPU`**: Inno3D GeForce RTX 3080X4
-3. **`RAM`**: G.Skill Trident Z5 6000MHz CL32 2x32GB
+3. **`RAM`**: G.Skill Trident Z5 6000 MT/s CL32 2x32GB
 4. **`MOBO`**: Asus Prime Z790-A WiFi
 5. **`CASE`**: Fractal Torrent White
 6. **`STORAGE`**:
